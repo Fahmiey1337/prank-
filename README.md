@@ -1,2 +1,2 @@
-# prank-
+# hack-tool
 prank hack
